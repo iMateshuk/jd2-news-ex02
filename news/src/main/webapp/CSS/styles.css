@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body {
+	font-family: arial;
+	background-color: rgb(185, 179, 175);
+}
+
+.header {
+	display: inline-block;
+	width: 100%;
+	border-bottom: 1px solid black;
+}
+
+h1 {
+	color: rgb(255, 255, 255);
+	background-color: red;
+}
+
+.headerLeft {
+	float: left;
+}
+
+.headerRight {
+	float: right;
+}
+
+button.user {
+	font-size: 12px;
+}
+
+button {
+	font-size: 10px;
+}
+
+input {
+	font-size: 10px;
+}
+
+.info {
+	font-family: sans-serif, serif;
+	font-size: 24px;
+	font-style: italic;
+	 margin: auto;
+}
+
+#body {
+	text-align: center;
+}
+
+/* .clear {
+	clear: both;
+} */
